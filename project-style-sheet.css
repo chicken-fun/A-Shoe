@@ -5,7 +5,7 @@
 body { background-color: #404040; color: white; line-height: 2; } /*applied to main text*/
 header { text-align: center; width: 100%; } 
 #bio {width: 60%; height: auto; margin: 20px; }
-#me {float: right; margin: 8vw; }
+#me {float: right; margin: 2vw; width: 30%; height: auto; }
 .indent { text-indent: 50px; }
 
 #beef {float: center; display: flex; justify-content: center; margin: 1vw 20vh; text-align: center; } /*images at the bottom of the page*/
