@@ -31,12 +31,12 @@ ul {
   margin: 0;
   padding: 0;
   background-color: white;
-  border-color: 420000;
-  color: 420000;
   display: flex; 
   justify-content: center;
 }
 ul a {margin: 2vh 5vw; }
+
+#border {background-color: 240000; height: 50%; } 
 
 	.index {background-color: white; width: 125px; height: 500px; margin: 1vw; text-align: left; float: left; }
 		/*.top {margin: 20px; line-height: 4; }*/
@@ -58,5 +58,6 @@ ul a {margin: 2vh 5vw; }
 
 input, textarea {display: block; margin-bottom: 0.5em; }
 #form {margin: 4vw; }
+.table { margin: 20vh 30vw; }
 
 	
