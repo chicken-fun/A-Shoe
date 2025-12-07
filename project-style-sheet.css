@@ -31,6 +31,8 @@ ul {
   margin: 0;
   padding: 0;
   background-color: white;
+  border-color: 420000;
+  color: 420000;
   display: flex; 
   justify-content: center;
 }
