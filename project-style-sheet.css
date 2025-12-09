@@ -27,6 +27,7 @@ h5 {font-family: "georgia", serif; font-style: italic; font-size: 100%; }
 h6 {font-family: "georgia", serif; text-align: left; font-style: italic; font-size: 100%; }
 
 #space {height: 10vh} /*There are many places in here that I fealt need more space in them*/
+#space2 {height: 7.5vh}
 
 ul {
   list-style-type: none;
