@@ -4,7 +4,7 @@
   .overlay {position: absolute; top: 50%; left: 50%; transform: translate(-120%, -281%); width: 40vw; height: 20vh; margin: 0 auto; font-size: 3vw; pointer-events: none; }
     .overlay2 {position: absolute; top: 50%; left: 50%; transform: translate(-86%, -220%); width: 40vw; height: 20vh; margin: 0 auto; font-size: 3vw; pointer-events: none; }
 * { box-sizing: border-box; }
-body { borackground-color: #404040; col: white; line-height: 2; } /*applied to main text*/
+body { background-color: #404040; color: white; line-height: 2; } /*applied to main text*/
 header { width: 100%; } 
 #bio {width: 60%; height: auto; margin: 20px; }
 #me {float: right; margin: 2vw; width: 30%; height: auto; } /*photo in about page*/

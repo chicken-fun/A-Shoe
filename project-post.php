@@ -8,11 +8,9 @@
 
 <body>
 
-
-
 first <?php echo $_POST["firstname"]; ?><br>
 last <?php echo $_POST["lastname"]; ?><br>
-email <?php echo $_POST["email"]; ?>
+email <?php echo $_POST["email"]; ?><br>
 comment <?php echo $_POST["comments"]; ?><br>
 
 </body>
