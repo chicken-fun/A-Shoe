@@ -4,6 +4,15 @@
 	<meta charset="utf-8">
 	<link rel="stylesheet" href="project-style-sheet.css">
 
+	<script>
+document.getElementById("myForm").onsubmit = function() {myFunction()};
+
+function myFunction() {
+  alert("The form was submitted");
+}
+</script>
+
+
 </head>
 <header>
 
@@ -37,7 +46,7 @@
 </h3>
 
 		<div id="form">
-		<form method="post" action="project-post.php">
+		<form  id="myForm" action="/action_page.php">
 			<label for="firstname">* First Name</label>
 			<input type="text" name="firstname" id="firstname" required placeholder= "your first name">
 			<label for="lastname">* Last Name</label>
